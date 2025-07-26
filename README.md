@@ -29,8 +29,8 @@ Follow these steps to get the project set up and ready to run.
 First, clone this repository to your local machine (or simply download the `search.py` script).
 
 ```bash
-git clone <your-repo-url>
-cd <repository-name>
+git clone https://github.com/mrinfinityjs/socmon.git
+cd socmon
 ```
 
 If you only have the script, create a project directory and place `search.py` inside it.
